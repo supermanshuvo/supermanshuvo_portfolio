@@ -1,7 +1,9 @@
+import Card from "./components/Card";
+
 function App() {
   return (
-    <div className="container">
-      <h1 className="text-center text-blue-800 font-bold text-xl capitalize">Shuvo is the best in the world</h1>
+    <div className="min-h-screen py-10 px-3 sm:px-5 sm:bg-gray-100">
+      <Card />
     </div>
   );
 }

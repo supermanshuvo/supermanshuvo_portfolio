@@ -8,7 +8,7 @@ import {
   FaSkype,
   FaWordpress,
 } from "react-icons/fa";
-import profile from "../img/supermanshuvo.png";
+import profile from "../img/profile.png";
 export default function Card() {
   return (
     <div className="w-full">

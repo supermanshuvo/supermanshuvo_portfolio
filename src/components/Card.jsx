@@ -23,7 +23,7 @@ export default function Card() {
         <div className="text-center mt-5">
           <p className="text-xl sm:text-2xl text-gray-900">Superman Shuvo</p>
           <p className="text-xs sm:text-base text-gray-600 pt-2 pb-4 px-5 w-auto inline-block border-b-2">
-            Programming Lover & Learner
+            Full Stack JS Developer
           </p>
         </div>
         <div className="flex justify-center mt-6">
